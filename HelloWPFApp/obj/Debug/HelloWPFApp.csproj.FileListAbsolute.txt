@@ -1,0 +1,15 @@
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csprojAssemblyReference.cache
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.g.cs
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.baml
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.cache
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\Satermoth\source\repos\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
